@@ -12,6 +12,7 @@ int main()
 	cout << Number1 - Number2 << endl;
 	cout << Number1 * Number2 << endl;
 	cout << Number1 / Number2 << endl;
+	cout << "연산이 완료되었습니다." << endl;
 
 	return 0;
 }
